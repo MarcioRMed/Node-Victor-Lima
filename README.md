@@ -21,9 +21,10 @@ aula 15 - Atualizando registro no MySQL
 aula 16 - Sequelize - trabalha MySQL direto Node
 aula 17 - Como se conectar ao MySQL - Squelize
 aula 18 - Models no Sequelize
+
 aula 19 - Handlebars - Template Engine
-aula 20
-aula 21
+aula 20 - Criando formulários
+aula 21 - Como enviar dados do formulário
 aula 22
 aula 23
 aula 24

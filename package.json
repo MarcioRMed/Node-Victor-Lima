@@ -10,6 +10,8 @@
     "sequelize": "^6.17.0"
   },
   "dependencies": {
-    "express-handlebars": "^6.0.3"
+    "-": "^0.0.1",
+    "express-handlebars": "^6.0.3",
+    "handlebars": "^4.7.7"
   }
 }
