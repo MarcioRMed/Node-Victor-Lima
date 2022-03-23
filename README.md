@@ -25,13 +25,18 @@ aula 18 - Models no Sequelize
 aula 19 - Handlebars - Template Engine
 aula 20 - Criando formulários
 aula 21 - Como enviar dados do formulário
-aula 22
-aula 23
-aula 24
-aula 25
-aula 26
-aula 27
-aula 28
+aula 22 - Body parser - 
+aula 23 - Estruturando banco de dados
+aula 24 - Pegando dados do formulário
+aula 25 - Listando dados do banco de dados
+aula 26 - Deletando posts - aplicação final com sequelize
+aula 27 -
+aula 28 -
+aula 29 -
+aula 30 -
+aula 31 -
+aula 32 -
+aula 33 -
 
 
 
