@@ -30,9 +30,17 @@ aula 23 - Estruturando banco de dados
 aula 24 - Pegando dados do formulário
 aula 25 - Listando dados do banco de dados
 aula 26 - Deletando posts - aplicação final com sequelize
-aula 27 -
-aula 28 -
-aula 29 -
+
+aula 27 - Introudução do MongoDB
+aula 28 - Como instalar o MongoDB
+aula 29 - Iniciando com Mongoose
+link aula 29
+
+https://www.youtube.com/watch?v=5_LRvbmlqeg&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B&index=29&ab_channel=VictorLima-GuiadoProgramador
+
+ir salvando as instruçõs no notion
+
+
 aula 30 -
 aula 31 -
 aula 32 -
