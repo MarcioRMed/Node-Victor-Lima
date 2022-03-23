@@ -1,0 +1,15 @@
+{
+  "name": "estudo_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MarcioRMed/Node-Victor-Lima.git",
+  "author": "MarcioRamosMedeiros",
+  "license": "MIT",
+  "devDependencies": {
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.17.0"
+  },
+  "dependencies": {
+    "express-handlebars": "^6.0.3"
+  }
+}
